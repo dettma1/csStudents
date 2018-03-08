@@ -10,7 +10,11 @@ a {
   text-decoration: none;
 }
 
-
+.stuProf{
+  width: 250px;
+  height: auto;
+  border-radius: 25px;
+}
 /*Text classes*/
 .rob {
   font-family: "Roboto";
@@ -40,8 +44,11 @@ a {
     width: 150px;
   }
 }
+
+
+}
 nav {
-  background-color: #333333;
+  background-color: #868e96;;
 
 }
 header {
@@ -75,8 +82,10 @@ header {
 
 #section_two {
   width:100%;
-  background-image: url("../img/bg/gray_sand.png");
-  font-color:black;
+  background-image: url("../img/gray_sand.png");
+  font-color:white;
+  font-family: roboto;
+  padding-top: 350px;
 }
 #section_three {
   width: 100%;
@@ -104,7 +113,10 @@ footer {
   background-image: url("../img/bg/subtle_white_feathers.png");
 
 }
-
+ 
+ #bannerImg {
+  background-color: white;
+ }
 
 /*Table CSS*/
 caption {
