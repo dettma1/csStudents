@@ -85,7 +85,8 @@ header {
   background-image: url("../img/gray_sand.png");
   font-color:white;
   font-family: roboto;
-  padding-top: 350px;
+  padding-top: 150px;
+  padding-bottom: 100px;
 }
 #section_three {
   width: 100%;
@@ -137,7 +138,17 @@ table td {
   color: white;
 }
 
+.modal-img{
+  width: 350px;
+  height:auto;  
+  margin-left: 60px;
+  margin-right: 60px; 
+  margin-bottom: 30px;
+}
 
+.modal-stu-prof {
+  font-size: 15px;
+}
 
 /* --------------------------------
 Sign Up and Sign in Modals
