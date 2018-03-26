@@ -1,4 +1,6 @@
 /*Page-wide CSS modifications*/
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 html {
 }
 
@@ -16,6 +18,19 @@ a {
   display: block;;
   margin: 0 auto;
   border-radius: 25px;
+}
+
+.descript{
+  color: white;
+  font-family: "Raleway";
+  font-size: 25px;
+  padding: 15px;
+  text-align: center;
+  align-content: center;
+  display: block;
+  margin-top: 20px;
+  font-style: thin;
+  font-style: italic;
 }
 /*Text classes*/
 .rob {
